@@ -1,0 +1,10 @@
+# Rust
+target/
+Cargo.lock
+
+# DFX
+.canisters/
+dfx-data/
+.dfx/
+.idea/
+*.wasm
